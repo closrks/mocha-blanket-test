@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "blanket": {
+      "pattern": "src"
+    }
+  },
+  "devDependencies": {
+    "blanket": "~1.1.5"
+  }
+}

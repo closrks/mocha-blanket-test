@@ -1,6 +1,6 @@
 var assert = require('assert')
-  , nextPrime = require('./../index').nextPrime
-  , asyncPrime = require('./../index').asyncPrime;
+  , nextPrime = require('../src/index').nextPrime
+  , asyncPrime = require('../src/index').asyncPrime;
 
 suite('nextPrime', function() {
   test('nextPrime should return the next prime number', function() {
